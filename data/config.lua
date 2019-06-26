@@ -1,19 +1,16 @@
 do local _ = {
   about_text = "",
   enabled_plugins = {
-    "set",
-    "get",
-    "onservice",
-    "plugins",
-    "plugins",
-    "FunTools",
-    "id",
-    "help",
-    "dl-file",
-    "savefile",
+    "banhammer",
+    "clean-msg",
+    "fun",
     "groupmanager",
-    "on-off",
-    "solid"
+    "plugins",
+    "info",
+    "msg-check",
+    "self-manager",
+    "self",
+    "tools"
   },
   help_text = "",
   help_text_realm = "",
