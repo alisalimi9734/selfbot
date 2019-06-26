@@ -226,7 +226,7 @@ function create_config( )
     "on-off",
     "solid"
     },
-    sudo_users = {350057145,132221010,tonumber(our_id)},--Sudo users
+    sudo_users = {732020140,732020140,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[]],
